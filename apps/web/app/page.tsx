@@ -32,7 +32,7 @@ export default function Home() {
           priority
         />
         <ol>
-          <li>This is the web Project</li>
+          <li>This is the web Project1</li>
           <li>Save and see your changes instantly.</li>
         </ol>
 
